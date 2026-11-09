@@ -111,3 +111,4 @@ public class CinemaHallRepository implements Repository<CinemaHall, String> {
         );
     }
 }
+// Developed by Member 3: IT26101064
