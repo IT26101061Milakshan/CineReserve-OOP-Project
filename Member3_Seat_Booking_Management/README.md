@@ -29,3 +29,7 @@
 2. Select **Git** and click **OK**.
 3. In the top menu, click **Git** &rarr; **GitHub** &rarr; **Share Project on GitHub**.
 4. Enter repository name (e.g., `cinereserve-seat-booking`), select Public, and click **Share**.
+
+## Module Developer
+- **Student ID:** IT26101064
+- **Role:** Member 3 - Seat Booking & Hall Management
