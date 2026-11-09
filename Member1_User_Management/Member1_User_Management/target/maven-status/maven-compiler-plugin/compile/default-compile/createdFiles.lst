@@ -1,0 +1,12 @@
+com\cinereserve\user\model\AdminUser.class
+com\cinereserve\user\repository\Repository.class
+com\cinereserve\user\util\PasswordUtil.class
+com\cinereserve\user\repository\UserRepository.class
+com\cinereserve\user\service\UserService.class
+com\cinereserve\user\model\RegularUser.class
+com\cinereserve\user\util\ValidationUtil.class
+com\cinereserve\user\UserManagementMain.class
+com\cinereserve\user\model\PremiumUser.class
+com\cinereserve\user\util\StringUtil.class
+com\cinereserve\user\model\User.class
+com\cinereserve\user\repository\FileStorageService.class
